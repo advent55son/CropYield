@@ -1,6 +1,6 @@
 # CropYield
 
-                      Crop yield prediction and Disease Detection using Machine Learning - A Review
+                      Crop yield prediction using Machine Learning - A Review
 
 Abstract:
 
